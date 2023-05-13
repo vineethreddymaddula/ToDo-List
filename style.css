@@ -116,3 +116,11 @@ a{
 margin-bottom: 2px;
 }
 
+
+@media screen and (max-width: 625px) {
+    .head{
+        margin: 38px;
+        font-size: 28px;
+    }
+    
+}
