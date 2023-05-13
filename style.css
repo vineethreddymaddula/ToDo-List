@@ -120,7 +120,14 @@ margin-bottom: 2px;
 @media screen and (max-width: 625px) {
     .head{
         margin: 38px;
-        font-size: 28px;
+        font-size: 60px;
+
+    }
+    .main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
     
 }
